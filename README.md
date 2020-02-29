@@ -1,4 +1,4 @@
-# SumUp mPOS SDK - Android
+# My Readme : SumUp mPOS SDK - Android
 
 [![Platform](https://img.shields.io/badge/Platform-Android-brightgreen.svg?style=flat-square)](http://developer.android.com/index.html)
 [![API](https://img.shields.io/badge/API-16%2B-orange.svg?style=flat-square)](https://developer.android.com/about/versions/android-4.1.html)
